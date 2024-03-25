@@ -1,108 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <title>Portfolio BTS SIO JT</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
-
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-dark">
-        <div class="row py-2 px-lg-5">
-            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>06 52 43 45 69</small>
-                    <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>jeremie.tran@espl.org</small>
-                </div>
-            </div>
-            <div class="col-lg-6 text-center text-lg-right">
-                <div class="d-inline-flex align-items-center">
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-                    <a class="text-white pl-2" href="">
-                        <i class="fab fa-youtube"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Portfolio</h1>
-            </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
-                <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                    <a href="index.html#presentation" class="nav-item nav-link">Présentation</a>
-                    <a href="index.html#environnement" class="nav-item nav-link">Environnement</a>
-                    <a href="index.html#Projets" class="nav-item nav-link">Projets</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Domaine Compétence</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="module1.html" class="dropdown-item">Domaine Compétence 1</a>
-                            <a href="module2.html" class="dropdown-item">Domaine Compétence 2</a>
-                            <a href="module3.html" class="dropdown-item">Domaine Compétence 3</a>
-                            <a href="module4.html" class="dropdown-item">Domaine Compétence 4</a>
-                            <a href="module5.html" class="dropdown-item">Domaine Compétence 5</a>
-                            <a href="module6.html" class="dropdown-item">Domaine Compétence 6</a>
-                        </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <!-- <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a> -->
-            </div>
-        </nav>
-    </div>
-    <!-- Navbar End -->
-
+<?php include 'head.html'; ?>
 
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Mettre à disposition des utilisateurs un service informatique</h1>
+            <h1 class="text-white display-1">Développer la présence en ligne de l’organisation</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Domaine Compétence 5</p>
+                <p class="m-0 text-uppercase">Domaine Compétence 3</p>
             </div>
             <!-- <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
@@ -133,97 +38,46 @@
                 <div class="col-lg-8">
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
-                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Domaine Compétence 5</h6>
-                            <h1 class="display-4">Mettre à disposition des utilisateurs un service informatique</h1>
+                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Domaine Compétence 3</h6>
+                            <h1 class="display-4">Développer la présence en ligne de l’organisation</h1>
                         </div>
-                        <img class="img-fluid rounded w-100 mb-4" src="img/team-5.jpg" alt="Image">
+                        <img class="img-fluid rounded w-100 mb-4" src="img/team-3.jpg" alt="Image">
                         <h2 class="mb-3">Projets rattachés :</h2>
                         &nbsp;&nbsp;&nbsp;
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission2.html">
+                            <a href="mission1.html">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 2 : Création d'une base de donnée en php</h4>
+                                <h4>Mission 1 : Maquette Html et CSS d'un site vitrine</h4>
                                 <p>
-                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
-                                    ▸ Déployer un service </br>
-                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
+                                    ▸ Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques </br>
+                                    ▸ Référencer les services en ligne de l’organisation et mesurer leur visibilité. </br>
+                                    ▸ Participer à l’évolution d’un site Web exploitant les données de l’organisation. </br>
                                 </p>
                             </div>
                         </div>
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission5.html">
-                                <div class="btn-icon bg-secondary mr-4">
-                                    <i class="fa fa-2x fa-briefcase text-white"></i>
+                            <a href="mission4.html">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 5 : Réalisation d'un outil de ticketing</h4>
+                                <h4>Mission 4 : Création d'un portfolio</h4>
                                 <p>
-                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
-                                    ▸ Déployer un service </br>
-                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
+                                    ▸ Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques </br>
+                                    ▸ Référencer les services en ligne de l’organisation et mesurer leur visibilité. </br>
+                                    ▸ Participer à l’évolution d’un site Web exploitant les données de l’organisation. </br>
                                 </p>
                             </div>
                         </div>
                         <!-- Fin Bloc Mission -->
-                        <!-- Début Bloc Mission -->
-                        <div class="d-flex mb-3">
-                            <a href="mission6.html">
-                                <div class="btn-icon bg-secondary mr-4">
-                                    <i class="fa fa-2x fa-briefcase text-white"></i>
-                            </div>
-                            </a>
-                            <div class="mt-n1">
-                                <h4>Mission 6 : Mise en place d'une application d'automatisation</h4>
-                                <p>
-                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
-                                    ▸ Déployer un service </br>
-                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
-                                </p>
-                            </div>
-                        </div>
-                        <!-- Fin Bloc Mission -->
-                        <!-- Début Bloc Mission -->
-                        <div class="d-flex mb-3">
-                            <a href="mission8.html">
-                                <div class="btn-icon bg-secondary mr-4">
-                                    <i class="fa fa-2x fa-briefcase text-white"></i>
-                            </div>
-                            </a>
-                            <div class="mt-n1">
-                                <h4>Mission 8 : Création d'une application d'archivage des tickets CB</h4>
-                                <p>
-                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
-                                    ▸ Déployer un service </br>
-                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
-                                </p>
-                            </div>
-                        </div>
-                        <!-- Fin Bloc Mission -->
-                        <!-- Début Bloc Mission -->
-                        <div class="d-flex mb-3">
-                        <a href="projet1.html">
-                        <div class="btn-icon bg-primary mr-4">
-                            <i class="fa fa-2x fa-graduation-cap text-white"></i>
-                        </div>
-                        </a>
-                        <div class="mt-n1">
-                            <h4>Projet 1 : Création d'un logiciel de gestion d'un magasin</h4>
-                            <p>
-                                ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
-                                ▸ Déployer un service </br>
-                                ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
-                            </p>
-                        </div>
-                    </div>
-                    <!-- Fin Bloc Mission -->
                     </div>
 
                     
@@ -277,14 +131,14 @@
                     <div class="bg-primary mb-5 py-3">
                         <h3 class="text-white py-3 px-4 m-0">Sous-Catégories</h3>
                         <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">▸Réaliser les tests d’intégration et d’acceptation d’un service</h6>
+                            <h6 class="text-white my-3">▸Participer à la valorisation de l’image de l’organisation sur les médias numériques en tenant compte du cadre juridique et des enjeux économiques </h6>
                         </div>
                         <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">▸Déployer un service
+                            <h6 class="text-white my-3">▸Référencer les services en ligne de l’organisation et mesurer leur visibilité.
                             </h6>
                         </div>
                         <div class="d-flex justify-content-between px-4">
-                            <h6 class="text-white my-3">▸Accompagner les utilisateurs dans la mise en place d’un service</h6>
+                            <h6 class="text-white my-3">▸Participer à l’évolution d’un site Web exploitant les données de l’organisation.</h6>
                         </div>
                         <!-- <div class="d-flex justify-content-between border-bottom px-4">
                             <h6 class="text-white my-3">▸Vérifier les conditions de la continuité d’un service informatique</h6>

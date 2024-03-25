@@ -1,108 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <title>Portfolio BTS SIO JT</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
-
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-dark">
-        <div class="row py-2 px-lg-5">
-            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>06 52 43 45 69</small>
-                    <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>jeremie.tran@espl.org</small>
-                </div>
-            </div>
-            <div class="col-lg-6 text-center text-lg-right">
-                <div class="d-inline-flex align-items-center">
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-                    <a class="text-white pl-2" href="">
-                        <i class="fab fa-youtube"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Portfolio</h1>
-            </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
-                <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                    <a href="index.html#presentation" class="nav-item nav-link">Présentation</a>
-                    <a href="index.html#environnement" class="nav-item nav-link">Environnement</a>
-                    <a href="index.html#Projets" class="nav-item nav-link">Projets</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Domaine Compétence</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="module1.html" class="dropdown-item">Domaine Compétence 1</a>
-                            <a href="module2.html" class="dropdown-item">Domaine Compétence 2</a>
-                            <a href="module3.html" class="dropdown-item">Domaine Compétence 3</a>
-                            <a href="module4.html" class="dropdown-item">Domaine Compétence 4</a>
-                            <a href="module5.html" class="dropdown-item">Domaine Compétence 5</a>
-                            <a href="module6.html" class="dropdown-item">Domaine Compétence 6</a>
-                        </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <!-- <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a> -->
-            </div>
-        </nav>
-    </div>
-    <!-- Navbar End -->
-
-
+<?php include 'head.html'; ?>
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Création d'un Portfolio</h1>
+            <h1 class="text-white display-1">Mise en place de GLPI sur un serveur Synology/NAS</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Mission 4</p>
+                <p class="m-0 text-uppercase">Mission 7</p>
             </div>
             <!-- <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
@@ -133,40 +37,38 @@
                 <div class="col-lg-8">
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
-                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 4</h6>
-                            <h1 class="display-4">Création d'un Portfolio </h1>
+                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 5</h6>
+                            <h1 class="display-4">Mise en place de GLPI sur un serveur Synology/NAS</h1>
                         </div>
-                        <img class="img-fluid rounded w-100 mb-4" src="img/mission4.png" alt="Image">
+                        <img class="img-fluid rounded w-100 mb-4" src="img/mission7.png" alt="Image">
                         <h2 class="mb-3">Description des tâches</h2>
                         <p>
-                        - Définition des différentes mission effectués et en cours </br>
-                        - Choix du support (web, powerpoint, doc, etc....)</br>
-                        - Création d'un site web en local. </br>
-                        - Copie du site web local sur un serveur externe et sur Github </br>
-                        - Achat d'un nom de domaine </br>
+                        - Définition des différents besoins de l'entreprise </br>
+                        - Choix du support (GLPI, powerapp, opensource....)</br>
+                        - Paramétrage du serveur NAS comme serveur WEB </br>
+                        - Installation de l'outil GLPI à la racine du serveur </br>
+                        - Déploiement de l'agent GLPI auprès des utilisateurs  </br>
                         </p>
                         <h2 class="mb-3">Moyens utilisés</h2>
-                        - MAMP  </br>
-                        - LWS (Hébergement) </br>
-                        - Template html et CSS</br>
-                        - Site Web Microlead  </br>
+                        - Interface Synologie  </br>
+                        - Tuto sur l'installation de GLPI  </br>
                         <p> 
                                                     
                         </p>
                         <h2 class="mb-3">Avec qui</h2>
                         <p> 
-                        Mission effectuée principalement seul avec l'aide de mes camarades de classe SLAM et le professeur.                            
+                        Mission effectuée principalement seul avec l'aide de mes collègues de travail et mon tuteur.                            
                         </p>
                         <h2 class="mb-3">Contexte</h2>
                         <p> 
-                        Effectué à : My Digital Shool Angers </br>
+                        Effectué à : Néolithe </br>
                         Service : Informatique et Développement Applicatif </br>
-                        Date : Du 01/05/2023 au 01/06/2024
+                        Date : Du 01/06/2023 au 01/12/2023
                                                 
                         </p>
                         <h2 class="mb-3">Commentaires</h2>
                         <p> 
-                        Le Portfolio est en constante amélioration.                            
+                        Pas de commentaires.                            
                         </p>
                     </div>
 

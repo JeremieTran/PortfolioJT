@@ -1,105 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <title>Edukate - Online Education Website Template</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
-
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-dark">
-        <div class="row py-2 px-lg-5">
-            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>06 52 43 45 69</small>
-                    <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>jeremie.tran@espl.org</small>
-                </div>
-            </div>
-            <div class="col-lg-6 text-center text-lg-right">
-                <div class="d-inline-flex align-items-center">
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-                    <a class="text-white pl-2" href="">
-                        <i class="fab fa-youtube"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Portfolio</h1>
-            </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
-                <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link">Accueil</a>
-                    <!-- <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="course.html" class="nav-item nav-link">Courses</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle active" data-toggle="dropdown">Pages</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="detail.html" class="dropdown-item active">Course Detail</a>
-                            <a href="feature.html" class="dropdown-item">Our Features</a>
-                            <a href="team.html" class="dropdown-item">Instructors</a>
-                            <a href="testimonial.html" class="dropdown-item">Testimonial</a>
-                        </div>
-                    </div> -->
-                    <!-- <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a>
-            </div> -->
-        </nav>
-    </div>
-    <!-- Navbar End -->
-
-
+<?php include 'head.html'; ?>
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Le BTS SIO</h1>
+            <h1 class="text-white display-1">Répondre aux incidents et aux demandes d’assistance et d’évolution</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Présentation BTS SIO</p>
+                <p class="m-0 text-uppercase">Domaine Compétence 2</p>
             </div>
             <!-- <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
@@ -130,33 +37,61 @@
                 <div class="col-lg-8">
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
-                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Présentation</h6>
-                            <h1 class="display-4">BTS SIO option SISR et option SLAM</h1>
+                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Domaine Compétence 2</h6>
+                            <h1 class="display-4">Répondre aux incidents et aux demandes d’assistance et d’évolution</h1>
                         </div>
-                        <img class="img-fluid rounded w-100 mb-4" src="img/Btspresentation.jpg" alt="Image">
-                        <h2 class="mb-3">BTS SIO option SISR</h2>
-                        <p> L’option Solution d’infrastructure, systèmes et réseaux forme des professionnels des réseaux et équipements informatiques (installation, maintenance, sécurité). En sortant d’un BTS SIO SISR, vous serez capables de gérer et d’administrer le réseau d’une société et d’assurer sa sécurité et sa maintenance.
-                            Les techniciens supérieurs en informatique option SISR, peuvent accéder aux métiers de : </br>
-                            > Administrateur systèmes et réseaux </br>
-                            > Informaticien support et déploiement </br>
-                            > Pilote d’exploitation </br>
-                            > Support systèmes et réseaux </br>
-                            > Technicien d’infrastructure </br>
-                            > Technicien de production </br>
-                            > Technicien micro et réseaux </br>
-                        </p>
-                        <h2 class="mb-3">BTS SIO option SLAM</h2>
-                        <p> L’option Solutions logicielles et applications métiers forme des spécialistes des logiciels (rédaction d’un cahier des charges, formulation des besoins et spécifications, développement, intégration au sein de la société).
-                            Les techniciens supérieurs en informatique option SLAM, sont préparés aux métiers de : </br>
-                            > Développeur d’applications informatiques </br>
-                            > Développeur informatique </br>
-                            > Analyste d’applications ou d’études </br>
-                            > Analyste programmeur </br>
-                            > Programmeur analyste </br>
-                            > Programmeur d’applications </br>
-                            > Responsable des services applicatifs </br>
-                            > Technicien d’études informatiques</br>
-                        </p>
+                        <img class="img-fluid rounded w-100 mb-4" src="img/team-2.jpg" alt="Image">
+                        <h2 class="mb-3">Projets rattachés : </h2>
+                        &nbsp;&nbsp;&nbsp;
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
+                            <a href="mission5.html">
+                                <div class="btn-icon bg-secondary mr-4">
+                                    <i class="fa fa-2x fa-briefcase text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 5 : Réalisation d'un outil de ticketing</h4>
+                                <p>
+                                    ▸ Collecter, suivre et orienter des demandes </br>
+                                    ▸ Traiter des demandes concernant les services réseau et système, applicatifs </br>
+                                    ▸ Traiter des demandes concernant les applications </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
+                            <a href="mission6.html">
+                                <div class="btn-icon bg-secondary mr-4">
+                                    <i class="fa fa-2x fa-briefcase text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 6 : Mise en place d'une application d'automatisation</h4>
+                                <p>
+                                    ▸ Traiter des demandes concernant les services réseau et système, applicatifs </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
+                            <a href="mission7.html">
+                                <div class="btn-icon bg-secondary mr-4">
+                                    <i class="fa fa-2x fa-briefcase text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 7 : Mise en place de GLPI sur un serveur Synologie / NAS</h4>
+                                <p>
+                                    ▸ Collecter, suivre et orienter des demandes  </br>
+                                    ▸ Traiter des demandes concernant les services réseau et système, applicatifs</br>
+                                    ▸ Traiter des demandes concernant les applications </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
                     </div>
 
                     
@@ -208,51 +143,26 @@
 
                 <div class="col-lg-4 mt-5 mt-lg-0">
                     <div class="bg-primary mb-5 py-3">
-                        <h3 class="text-white py-3 px-4 m-0">Répartition horaire</h3>
+                        <h3 class="text-white py-3 px-4 m-0">Sous-Catégories</h3>
                         <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Culture générale et expression</h6>
-                            <h6 class="text-white my-3">60 h</h6>
+                            <h6 class="text-white my-3">▸Collecter, suivre et orienter des demandes </h6>
                         </div>
                         <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Anglais</h6>
-                            <h6 class="text-white my-3">110 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Mathématique</h6>
-                            <h6 class="text-white my-3">110 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">C.E.J.M</h6>
-                            <h6 class="text-white my-3">200 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Bloc 1 : Support Info</h6>
-                            <h6 class="text-white my-3">300 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Bloc 2 : Admin Système</h6>
-                            <h6 class="text-white my-3">400 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Bloc 3 : Cybersécurité</h6>
-                            <h6 class="text-white my-3">100 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Atelier professionnel</h6>
-                            <h6 class="text-white my-3">70 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Option Langue Facultative</h6>
-                            <h6 class="text-white my-3">70 h</h6>
-                        </div>
-                        <div class="d-flex justify-content-between border-bottom px-4">
-                            <h6 class="text-white my-3">Option math appliqués</h6>
-                            <h6 class="text-white my-3">70 h</h6>
+                            <h6 class="text-white my-3">▸Traiter des demandes concernant les services réseau et système, applicatifs
+                            </h6>
                         </div>
                         <div class="d-flex justify-content-between px-4">
-                            <h6 class="text-white my-3">Option Parcours Certification</h6>
-                            <h6 class="text-white my-3">70 h</h6>
+                            <h6 class="text-white my-3">▸Traiter des demandes concernant les applications</h6>
                         </div>
+                        <!-- <div class="d-flex justify-content-between border-bottom px-4">
+                            <h6 class="text-white my-3">▸Vérifier les conditions de la continuité d’un service informatique</h6>
+                        </div>
+                        <div class="d-flex justify-content-between border-bottom px-4">
+                            <h6 class="text-white my-3">▸Gérer des sauvegardes</h6>
+                        </div>
+                        <div class="d-flex justify-content-between px-4">
+                            <h6 class="text-white my-3">▸Vérifier le respect des règles d’utilisation des ressources numériques</h6>
+                        </div> -->
                         <!-- <h5 class="text-white py-3 px-4 m-0">Course Price: $199</h5>
                         <div class="py-3 px-4">
                             <a class="btn btn-block btn-secondary py-3 px-5" href="">Enroll Now</a>

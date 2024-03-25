@@ -1,108 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <title>Portfolio BTS SIO JT</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
-
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-dark">
-        <div class="row py-2 px-lg-5">
-            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>06 52 43 45 69</small>
-                    <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>jeremie.tran@espl.org</small>
-                </div>
-            </div>
-            <div class="col-lg-6 text-center text-lg-right">
-                <div class="d-inline-flex align-items-center">
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-facebook-f"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-instagram"></i>
-                    </a>
-                    <a class="text-white pl-2" href="">
-                        <i class="fab fa-youtube"></i>
-                    </a>
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Portfolio</h1>
-            </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
-                <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                    <a href="index.html#presentation" class="nav-item nav-link">Présentation</a>
-                    <a href="index.html#environnement" class="nav-item nav-link">Environnement</a>
-                    <a href="index.html#Projets" class="nav-item nav-link">Projets</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Domaine Compétence</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="module1.html" class="dropdown-item">Domaine Compétence 1</a>
-                            <a href="module2.html" class="dropdown-item">Domaine Compétence 2</a>
-                            <a href="module3.html" class="dropdown-item">Domaine Compétence 3</a>
-                            <a href="module4.html" class="dropdown-item">Domaine Compétence 4</a>
-                            <a href="module5.html" class="dropdown-item">Domaine Compétence 5</a>
-                            <a href="module6.html" class="dropdown-item">Domaine Compétence 6</a>
-                        </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <!-- <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a> -->
-            </div>
-        </nav>
-    </div>
-    <!-- Navbar End -->
-
-
+<?php include 'head.html'; ?>
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Création d'un logiciel de gestion d'un magasin</h1>
+            <h1 class="text-white display-1">Création d'une base de donnée SQL </h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
-                <p class="m-0 text-uppercase">Projet 1</p>
+                <p class="m-0 text-uppercase">Mission 2</p>
             </div>
             <!-- <div class="mx-auto mb-5" style="width: 100%; max-width: 600px;">
                 <div class="input-group">
@@ -133,43 +37,34 @@
                 <div class="col-lg-8">
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
-                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 8</h6>
-                            <h1 class="display-4">Création d'un logiciel de gestion d'un magasin</h1>
+                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 2</h6>
+                            <h1 class="display-4">Création d'une base de donnée SQL </h1>
                         </div>
-                        <img class="img-fluid rounded w-100 mb-4" src="img/projet1.png" alt="Image">
+                        <img class="img-fluid rounded w-100 mb-4" src="img/mission2.jpg" alt="Image">
                         <h2 class="mb-3">Description des tâches</h2>
                         <p>
-                        - Création d'un planning de tâches </br>
-                        - Définition de l'architecture du site </br>
-                        - Création d'un Workbench afin de créer la base de donnée MySQL sous PHPMyAdmin</br>
-                        - Création de la requête sql pour la création de la base de donnée.</br>
-                        - Création d'un repository GIT </br>
-                        - Répartition des tâches au sein de l'équipe </br>
-                        - Clean du template initial à l'aide de la définition de l'architecture </br>
-                        - Création des différentes pages du site </br>
-                        - Sécurisation de la base de donnée et des mots de passes </br>
-                        - Test et mise sur serveur du site </br>
+                        - Création d'un identifiant et mot de passe sur Php MyAdmin </br>
+                        - Création d'une table de donnée test </br>
+                        - Création des colonnes avec les différents paramètres (type, noms, etc...) </br>
+                        - Test de la base via une requête sql test (Create, Delete and Select) </br>
                         </p>
                         <h2 class="mb-3">Moyens utilisés</h2>
-                        - Github </br>
+                        - Installation de mamp pour l'émulation de la base de données </br>
                         - Visual Studio Code </br>
-                        - AdminIo template </br>
-                        - Full Calendar </br>
-                        - My SQL </br>
-                        - PhpMyAdmin </br>
-                        - Visual Studio Code</div> </br>
+                        - Tutoriels sur PHP et SQL</br>
+                        - Site Web <a href="www.microlead.fr">Microlead</a> </br>
                         <p> 
                                                     
                         </p>
                         <h2 class="mb-3">Avec qui</h2>
                         <p> 
-                        Mission effectuée avec l'aide de mes camarades de classe ainsi que de notre professeur.                            
+                        Mission effectuée principalement seul avec l'aide de mes camarades de classe SLAM et le professeur.                            
                         </p>
                         <h2 class="mb-3">Contexte</h2>
                         <p> 
-                        Effectué à : My Digital School </br>
+                        Effectué à : My Digital Shool Angers </br>
                         Service : Informatique et Développement Applicatif </br>
-                        Date : Du 01/08/2022 au 01/01/2023
+                        Date : Du 01/01/2023 au 10/01/2023
                                                 
                         </p>
                         <h2 class="mb-3">Commentaires</h2>

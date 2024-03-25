@@ -1,114 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="utf-8">
-    <title>Edukate - Online Education Website Template</title>
-    <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="Free HTML Templates" name="keywords">
-    <meta content="Free HTML Templates" name="description">
-
-    <!-- Favicon -->
-    <link href="img/favicon.ico" rel="icon">
-
-    <!-- Google Web Fonts -->
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Jost:wght@500;600;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet"> 
-
-    <!-- Font Awesome -->
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-
-    <!-- Libraries Stylesheet -->
-    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
-    <link href="css/style.css" rel="stylesheet">
-</head>
-
-<body>
-    <!-- Topbar Start -->
-    <div class="container-fluid bg-dark">
-        <div class="row py-2 px-lg-5">
-            <div class="col-lg-6 text-center text-lg-left mb-2 mb-lg-0">
-                <div class="d-inline-flex align-items-center text-white">
-                    <small><i class="fa fa-phone-alt mr-2"></i>06 52 43 45 69</small>
-                    <small class="px-3">|</small>
-                    <small><i class="fa fa-envelope mr-2"></i>jeremie.tran@espl.org</small>
-                </div>
-            </div>
-            <div class="col-lg-6 text-center text-lg-right">
-                <div class="d-inline-flex align-items-center">
-                    <!-- <a class="text-white px-2" href="">
-                        <i class="fab fa-facebook-f"></i>
-                    </a> -->
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-twitter"></i>
-                    </a>
-                    <a class="text-white px-2" href="">
-                        <i class="fab fa-linkedin-in"></i>
-                    </a>
-                    <!-- <a class="text-white px-2" href="">
-                        <i class="fab fa-instagram"></i>
-                    </a> -->
-                    <!-- <a class="text-white pl-2" href="">
-                        <i class="fab fa-youtube"></i>
-                    </a> -->
-                </div>
-            </div>
-        </div>
-    </div>
-    <!-- Topbar End -->
-
-
-    <!-- Navbar Start -->
-    <div class="container-fluid p-0">
-        <nav class="navbar navbar-expand-lg bg-white navbar-light py-3 py-lg-0 px-lg-5">
-            <a href="index.html" class="navbar-brand ml-lg-3">
-                <h1 class="m-0 text-uppercase text-primary"><i class="fa fa-book-reader mr-3"></i>Portfolio</h1>
-            </a>
-            <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse justify-content-between px-lg-3" id="navbarCollapse">
-                <div class="navbar-nav mx-auto py-0">
-                    <a href="index.html" class="nav-item nav-link active">Accueil</a>
-                    <a href="#presentation" class="nav-item nav-link">Présentation</a>
-                    <a href="#environnement" class="nav-item nav-link">Environnement</a>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Liste des projets</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="mission1.html" class="dropdown-item">Mission 1</a>
-                            <a href="mission2.html" class="dropdown-item">Mission 2</a>
-                            <a href="mission3.html" class="dropdown-item">Mission 3</a>
-                            <a href="mission4.html" class="dropdown-item">Mission 4</a>
-                            <a href="mission5.html" class="dropdown-item">Mission 5</a>
-                            <a href="mission6.html" class="dropdown-item">Mission 6</a>
-                            <a href="mission7.html" class="dropdown-item">Mission 7</a>
-                            <a href="mission8.html" class="dropdown-item">Mission 8</a>
-                            <a href="mission9.html" class="dropdown-item">Mission 9</a>
-                            <a href="projet1.html" class="dropdown-item">Projet 1</a>
-                        </div>
-                    </div>
-                    <div class="nav-item dropdown">
-                        <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Domaine Compétence</a>
-                        <div class="dropdown-menu m-0">
-                            <a href="module1.html" class="dropdown-item">Domaine Compétence 1</a>
-                            <a href="module2.html" class="dropdown-item">Domaine Compétence 2</a>
-                            <a href="module3.html" class="dropdown-item">Domaine Compétence 3</a>
-                            <a href="module4.html" class="dropdown-item">Domaine Compétence 4</a>
-                            <a href="module5.html" class="dropdown-item">Domaine Compétence 5</a>
-                            <a href="module6.html" class="dropdown-item">Domaine Compétence 6</a>
-                        </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a>
-                </div>
-                <!-- <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Join Us</a> -->
-            </div>
-        </nav>
-    </div>
-    <!-- Navbar End -->
-
-
+<?php include 'head.html'; ?>
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center my-5 py-5">
@@ -134,7 +24,6 @@
         </div>
     </div>
     <!-- Header End -->
-
 
     <!-- About Start -->
     <div class="container-fluid py-5">
@@ -199,7 +88,7 @@
                     </div>
                     <p class="mb-4 pb-2">Ce BTS SIO a été mené en alternance avec des périodes en école et des périodes en entreprise. Voici une présentation de ces environnements.</p>
                     <div class="d-flex mb-3">
-                    <a href="presbts.html">
+                    <a href="presbts.php">
                         <div class="btn-icon bg-primary mr-4">
                             <i class="fa fa-2x fa-graduation-cap text-white"></i>
                         </div>
@@ -210,7 +99,7 @@
                         </div>
                     </div>
                     <div class="d-flex mb-3">
-                    <a href="presneolithe.html">
+                    <a href="presneolithe.php">
                         <div class="btn-icon bg-secondary mr-4">
                             <i class="fa fa-2x fa-certificate text-white"></i>
                         </div>
@@ -408,7 +297,7 @@
             </div>
             <div class="owl-carousel team-carousel position-relative" style="padding: 0 30px;">
                 <div class="team-item">
-                    <a href="module1.html"><img class="img-fluid w-100" src="img/team-1.jpg" alt=""></a>
+                    <a href="module1.php"><img class="img-fluid w-100" src="img/team-1.jpg" alt=""></a>
                     <div class="bg-light text-center p-4">
                         <h5 class="mb-3">Gérer le patrimoine informatique</h5>
                         <p class="mb-2">
@@ -428,7 +317,7 @@
                     </div>
                 </div>
                 <div class="team-item">
-                    <a href="module2.html"><img class="img-fluid w-100" src="img/team-2.jpg" alt=""></a>
+                    <a href="module2.php"><img class="img-fluid w-100" src="img/team-2.jpg" alt=""></a>
                     <div class="bg-light text-center p-4">
                         <h5 class="mb-3">Répondre aux incidents et aux demandes d’assistance et d’évolution</h5>
                         <p class="mb-2">
@@ -446,7 +335,7 @@
                     </div>
                 </div>
                 <div class="team-item">
-                    <a href="module3.html"><img class="img-fluid w-100" src="img/team-3.jpg" alt=""></a>
+                    <a href="module3.php"><img class="img-fluid w-100" src="img/team-3.jpg" alt=""></a>
                     <div class="bg-light text-center p-4">
                         <h5 class="mb-3">Développer la présence en ligne de l’organisation</h5>
                         <p class="mb-2">
@@ -464,7 +353,7 @@
                     </div>
                 </div>
                 <div class="team-item">
-                    <a href="module4.html"><img class="img-fluid w-100" src="img/team-4.jpg" alt=""></a>
+                    <a href="module4.php"><img class="img-fluid w-100" src="img/team-4.jpg" alt=""></a>
                     <div class="bg-light text-center p-4">
                         <h5 class="mb-3">Travailler en mode projet</h5>
                         <p class="mb-2">
@@ -482,7 +371,7 @@
                     </div>
                 </div>
                 <div class="team-item">
-                    <a href="module5.html"><img class="img-fluid w-100" src="img/team-5.jpg" alt=""></a>
+                    <a href="module5.php"><img class="img-fluid w-100" src="img/team-5.jpg" alt=""></a>
                     <div class="bg-light text-center p-4">
                         <h5 class="mb-3">Mettre à disposition des utilisateurs un service informatique</h5>
                         <p class="mb-2">
@@ -500,7 +389,7 @@
                     </div>
                 </div>
                 <div class="team-item">
-                    <a href="module6.html"><img class="img-fluid w-100" src="img/team-6.jpg" alt=""></a>
+                    <a href="module6.php"><img class="img-fluid w-100" src="img/team-6.jpg" alt=""></a>
                     <div class="bg-light text-center p-4">
                         <h5 class="mb-3">Organiser son développement professionnel</h5>
                         <p class="mb-2">
@@ -640,7 +529,7 @@
         <div class="container mt-5 pt-5">
             <div class="row">
                 <div class="col-md-6 mb-5">
-                    <a href="index.html" class="navbar-brand">
+                    <a href="index.php" class="navbar-brand">
                         <h1 class="mt-n2 text-uppercase text-white"><i class="fa fa-book-reader mr-3"></i>Portfolio</h1>
                     </a>
                     <!-- <p class="m-0">Accusam nonumy clita sed rebum kasd eirmod elitr. Ipsum ea lorem at et diam est, tempor rebum ipsum sit ea tempor stet et consetetur dolores. Justo stet diam ipsum lorem vero clita diam</p> -->
