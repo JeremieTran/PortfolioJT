@@ -581,6 +581,8 @@
                 </div>
             </div>
         </div>
+    <div id="sfcezehfxpz1rwayagwgz3htxzuk7wuepls" style=text-align: center;">"></div>
+    <script type="text/javascript" src="https://counter11.optistats.ovh/private/counter.js?c=ezehfxpz1rwayagwgz3htxzuk7wuepls&down=async" async></script>
     </div>
     <!-- <div class="container-fluid bg-dark text-white-50 border-top py-4" style="border-color: rgba(256, 256, 256, .1) !important;">
         <div class="container">
@@ -596,6 +598,7 @@
             </div>
         </div>
     </div> -->
+
     <!-- Footer End -->
 
 
