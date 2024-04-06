@@ -45,7 +45,7 @@
                         &nbsp;&nbsp;&nbsp;
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission2.html">
+                            <a href="mission2.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
@@ -61,7 +61,7 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission5.html">
+                            <a href="mission5.php">
                             <div class="btn-icon bg-secondary mr-4">
                                 <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
@@ -79,25 +79,7 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission6.html">
-                                <div class="btn-icon bg-secondary mr-4">
-                                    <i class="fa fa-2x fa-briefcase text-white"></i>
-                            </div>
-                            </a>
-                            <div class="mt-n1">
-                                <h4>Mission 6 : Mise en place d'une application d'automatisation</h4>
-                                <p>
-                                    ▸ Recenser et identifier les ressources numériques  </br>
-                                    ▸ Mettre en place et vérifier les niveaux d’habilitation associés à un service </br>
-                                    ▸ Vérifier les conditions de la continuité d’un service informatique </br>
-                                    ▸ Gérer des sauvegardes 
-                                </p>
-                            </div>
-                        </div>
-                        <!-- Fin Bloc Mission -->
-                        <!-- Début Bloc Mission -->
-                        <div class="d-flex mb-3">
-                            <a href="mission7.html">
+                            <a href="mission7.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
@@ -115,7 +97,7 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission9.html">
+                            <a href="mission9.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>

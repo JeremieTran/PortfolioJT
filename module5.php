@@ -45,13 +45,13 @@
                         &nbsp;&nbsp;&nbsp;
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission2.html">
+                            <a href="mission2.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 2 : Création d'une base de donnée en php</h4>
+                                <h4>Mission 2 : Création d'une base de donnée en sql/php</h4>
                                 <p>
                                     ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
                                     ▸ Déployer un service </br>
@@ -62,30 +62,13 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission5.html">
+                            <a href="mission5.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
                                 <h4>Mission 5 : Réalisation d'un outil de ticketing</h4>
-                                <p>
-                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
-                                    ▸ Déployer un service </br>
-                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
-                                </p>
-                            </div>
-                        </div>
-                        <!-- Fin Bloc Mission -->
-                        <!-- Début Bloc Mission -->
-                        <div class="d-flex mb-3">
-                            <a href="mission6.html">
-                                <div class="btn-icon bg-secondary mr-4">
-                                    <i class="fa fa-2x fa-briefcase text-white"></i>
-                            </div>
-                            </a>
-                            <div class="mt-n1">
-                                <h4>Mission 6 : Mise en place d'une application d'automatisation</h4>
                                 <p>
                                     ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
                                     ▸ Déployer un service </br>
@@ -128,6 +111,23 @@
                         </div>
                     </div>
                     <!-- Fin Bloc Mission -->
+                    <!-- Début Bloc Mission -->
+                    <div class="d-flex mb-3">
+                            <a href="projet2.php">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-graduation-cap text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Projet 2 : Création d'un site de veille avec Laravel</h4>
+                                <p>
+                                    ▸ Analyser les objectifs et les modalités d’organisation d’un projet </br>
+                                    ▸ Planifier les activités </br>
+                                    ▸ Évaluer les indicateurs de suivi d’un projet et analyser les écarts </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
                     </div>
 
                     

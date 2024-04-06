@@ -45,13 +45,13 @@
                         &nbsp;&nbsp;&nbsp;
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission6.html">
+                            <a href="mission8.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 6 : Mise en place d'une application d'automatisation pour stocker les données du laboratoire.</h4>
+                                <h4>Mission 8 : Création d'une application d'archivage des tickets CB.</h4>
                                 <p>
                                     ▸ Analyser les objectifs et les modalités d’organisation d’un projet </br>
                                     ▸ Planifier les activités </br>
@@ -62,7 +62,7 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission9.html">
+                            <a href="mission9.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
@@ -79,13 +79,30 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="projet1.html">
+                            <a href="projet1.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
                                 <h4>Projet 1 : Création d'un logiciel de gestion d'un magasin</h4>
+                                <p>
+                                    ▸ Analyser les objectifs et les modalités d’organisation d’un projet </br>
+                                    ▸ Planifier les activités </br>
+                                    ▸ Évaluer les indicateurs de suivi d’un projet et analyser les écarts </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
+                            <a href="projet2.php">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-graduation-cap text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Projet 2 : Création d'un site de veille avec Laravel</h4>
                                 <p>
                                     ▸ Analyser les objectifs et les modalités d’organisation d’un projet </br>
                                     ▸ Planifier les activités </br>

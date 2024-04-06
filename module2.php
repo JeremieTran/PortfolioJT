@@ -45,7 +45,7 @@
                         &nbsp;&nbsp;&nbsp;
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission5.html">
+                            <a href="mission5.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
@@ -62,13 +62,13 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission6.html">
+                            <a href="mission8.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 6 : Mise en place d'une application d'automatisation</h4>
+                                <h4>Mission 8 : Création d'une application d'archivage des tickets CB</h4>
                                 <p>
                                     ▸ Traiter des demandes concernant les services réseau et système, applicatifs </br>
                                 </p>
@@ -77,7 +77,7 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission7.html">
+                            <a href="mission7.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>

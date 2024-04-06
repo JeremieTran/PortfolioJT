@@ -46,7 +46,7 @@
                         &nbsp;&nbsp;&nbsp;
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission1.html">
+                            <a href="mission1.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
@@ -63,7 +63,7 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission4.html">
+                            <a href="mission4.php">
                             <div class="btn-icon bg-primary mr-4">
                                 <i class="fa fa-2x fa-graduation-cap text-white"></i>
                             </div>
