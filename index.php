@@ -110,9 +110,11 @@
                         </div>
                     </div>
                     <div class="d-flex">
+                    <a href="https://veillerss.jeremietran.fr/">
                         <div class="btn-icon bg-warning mr-4">
                             <i class="fa fa-2x fa-book-reader text-white"></i>
                         </div>
+                    </a>
                         <div class="mt-n1">
                             <h4>Veille</h4>
                             <p class="m-0">Une veille a été effectuée.</p>

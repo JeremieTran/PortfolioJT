@@ -71,6 +71,22 @@
                         <p> 
                         Pas de commentaires.                            
                         </p>
+                        <h2 class="mb-3">Annexes</h2>
+                        <p>                            
+                        </p>
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://pma.jeremietran.fr/">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>PhpMyAdmin </h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->   
                     </div>
 
                     
