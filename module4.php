@@ -51,7 +51,7 @@
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 8 : Création d'une application d'archivage des tickets CB.</h4>
+                                <h4>Mission 8 : Création d'une application lourde Visual Studio.</h4>
                                 <p>
                                     ▸ Analyser les objectifs et les modalités d’organisation d’un projet </br>
                                     ▸ Planifier les activités </br>

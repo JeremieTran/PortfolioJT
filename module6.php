@@ -97,13 +97,47 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
+                            <a href="mission6.php">
+                                <div class="btn-icon bg-secondary mr-4">
+                                    <i class="fa fa-2x fa-briefcase text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 6 : Mise en place de GOPHISH</h4>
+                                <p>
+                                    ▸ Mettre en place son environnement d’apprentissage personnel </br>
+                                    ▸ Gérer son identité professionnelle </br>
+                                    ▸ Développer son projet professionnel </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
                             <a href="mission7.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 7 : Mise en place de GLPI sur un serveur Synologie / NAS</h4>
+                                <h4>Mission 7 : Mise en place de GLPI sur un serveur AWS</h4>
+                                <p>
+                                    ▸ Mettre en place son environnement d’apprentissage personnel </br>
+                                    ▸ Gérer son identité professionnelle </br>
+                                    ▸ Développer son projet professionnel </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
+                            <a href="mission10.php">
+                                <div class="btn-icon bg-secondary mr-4">
+                                    <i class="fa fa-2x fa-briefcase text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 10 : Création d'un générateur de MDP Javascript</h4>
                                 <p>
                                     ▸ Mettre en place son environnement d’apprentissage personnel </br>
                                     ▸ Gérer son identité professionnelle </br>

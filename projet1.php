@@ -67,7 +67,7 @@
                         </p>
                         <h2 class="mb-3">Avec qui</h2>
                         <p> 
-                        Mission effectuée avec l'aide de mes camarades de classe ainsi que de notre professeur.                            
+                        Projet effectué avec l'aide de mes camarades de classe ainsi que de notre professeur.                            
                         </p>
                         <h2 class="mb-3">Contexte</h2>
                         <p> 
@@ -79,6 +79,9 @@
                         <h2 class="mb-3">Commentaires</h2>
                         <p> 
                         Pas de commentaires.                            
+                        </p>
+                        <h2 class="mb-3">Annexes</h2>
+                        <p>                            
                         </p>
                     </div>
 

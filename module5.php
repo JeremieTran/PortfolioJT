@@ -62,6 +62,23 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
+                            <a href="mission3.php">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-graduation-cap text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 3 : Container Docker</h4>
+                                <p>
+                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
+                                    ▸ Déployer un service </br>
+                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
                             <a href="mission5.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
@@ -79,13 +96,30 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission8.html">
+                            <a href="mission10.php">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-graduation-cap text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 10 : Création d'un générateur de MDP Javascript</h4>
+                                <p>
+                                    ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
+                                    ▸ Déployer un service </br>
+                                    ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
+                            <a href="projet3.html">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 8 : Création d'une application d'archivage des tickets CB</h4>
+                                <h4>Projet 3 : Création d'une application d'archivage des tickets CB</h4>
                                 <p>
                                     ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
                                     ▸ Déployer un service </br>
@@ -121,9 +155,9 @@
                             <div class="mt-n1">
                                 <h4>Projet 2 : Création d'un site de veille avec Laravel</h4>
                                 <p>
-                                    ▸ Analyser les objectifs et les modalités d’organisation d’un projet </br>
-                                    ▸ Planifier les activités </br>
-                                    ▸ Évaluer les indicateurs de suivi d’un projet et analyser les écarts </br>
+                                ▸ Réaliser les tests d’intégration et d’acceptation d’un service </br>
+                                ▸ Déployer un service </br>
+                                ▸ Accompagner les utilisateurs dans la mise en place d’un service </br>
                                 </p>
                             </div>
                         </div>

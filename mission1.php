@@ -46,7 +46,6 @@
                         - Analyse d'une maquette sur Figma pour le rendu graphique </br>
                         - Décorticage du template afin de séparer la partie style (CSS) et affichage web (html) </br>
                         - Création des animations et boutons en Javascript </br>
-                        - Mise en place d'un rendu responsive via le CSS </br>
                         - Structuration du code 
                         </p>
                         <h2 class="mb-3">Moyens utilisés</h2>

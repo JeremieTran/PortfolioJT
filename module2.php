@@ -62,32 +62,15 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
-                            <a href="mission8.php">
+                            <a href="projet3.php">
                                 <div class="btn-icon bg-secondary mr-4">
                                     <i class="fa fa-2x fa-briefcase text-white"></i>
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 8 : Création d'une application d'archivage des tickets CB</h4>
+                                <h4>Projet 3 : Création d'une application d'archivage des tickets CB</h4>
                                 <p>
                                     ▸ Traiter des demandes concernant les services réseau et système, applicatifs </br>
-                                </p>
-                            </div>
-                        </div>
-                        <!-- Fin Bloc Mission -->
-                        <!-- Début Bloc Mission -->
-                        <div class="d-flex mb-3">
-                            <a href="mission7.php">
-                                <div class="btn-icon bg-secondary mr-4">
-                                    <i class="fa fa-2x fa-briefcase text-white"></i>
-                            </div>
-                            </a>
-                            <div class="mt-n1">
-                                <h4>Mission 7 : Mise en place de GLPI sur un serveur Synologie / NAS</h4>
-                                <p>
-                                    ▸ Collecter, suivre et orienter des demandes  </br>
-                                    ▸ Traiter des demandes concernant les services réseau et système, applicatifs</br>
-                                    ▸ Traiter des demandes concernant les applications </br>
                                 </p>
                             </div>
                         </div>

@@ -78,6 +78,32 @@
                         <p> 
                         Pas de commentaires.                            
                         </p>
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://veilleRSS.jeremietran.fr/">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Adresse du site </h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->   
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://github.com/JeremieTran/VeilleRSS.git">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Github </h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->   
                     </div>
 
                     

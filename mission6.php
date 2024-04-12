@@ -37,7 +37,7 @@
                 <div class="col-lg-8">
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
-                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 5</h6>
+                            <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 6</h6>
                             <h1 class="display-4">Mise en place de GOPHISH  </h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/mission6.jpg" alt="Image">

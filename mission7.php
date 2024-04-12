@@ -2,7 +2,7 @@
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Mise en place de GLPI sur un serveur Synology/NAS</h1>
+            <h1 class="text-white display-1">Mise en place de GLPI sur un serveur AWS</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
@@ -38,7 +38,7 @@
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
                             <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 5</h6>
-                            <h1 class="display-4">Mise en place de GLPI sur un serveur Synology/NAS</h1>
+                            <h1 class="display-4">Mise en place de GLPI sur un serveur AWS</h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/mission7.png" alt="Image">
                         <h2 class="mb-3">Description des tâches</h2>

@@ -1,9 +1,8 @@
 <?php include 'head.html'; ?>
-
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Création d'une application lourde Visual Studio</h1>
+            <h1 class="text-white display-1">Création d'une application d'archivage des tickets CB</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
@@ -39,31 +38,34 @@
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
                             <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Projet 3</h6>
-                            <h1 class="display-4">Création d'une application lourde Visual Studio</h1>
+                            <h1 class="display-4">Création d'une application d'archivage des tickets CB</h1>
                         </div>
-                        <img class="img-fluid rounded w-100 mb-4" src="img/projet3.png" alt="Image">
+                        <img class="img-fluid rounded w-100 mb-4" src="img/mission8.jpg" alt="Image">
                         <h2 class="mb-3">Description des tâches</h2>
                         <p>
-                        - Installation de Visual Studio et dépendances. </br>
-                        - Définition de l'architecture de l'application. </br>
-                        - Mise en place du système de réservation de places.</br>
-                        - Test et application.</br>
+                        - Définition des différents besoins de l'entreprise </br>
+                        - Choix du support (Powerapp, opensource....)</br>
+                        - Définition du CDC avec l'assistant de direction</br>
+                        - Création d'une liste sur Sharepoint pour l'archivage des données </br>
+                        - Création de l'application avec Power App  </br>
+                        - Création d'une feuille process pour l'utilisation </br>
+                        - Déploiement auprès de la direction
                         </p>
                         <h2 class="mb-3">Moyens utilisés</h2>
-                        - Github </br>
-                        - Visual Studio</br>
+                        - Power App </br>
+                        - Sharepoint </div> </br>
                         <p> 
                                                     
                         </p>
                         <h2 class="mb-3">Avec qui</h2>
                         <p> 
-                        Mission effectuée avec l'aide de notre professeur.                            
+                        Mission effectuée principalement seul avec l'aide de mes collègues de travail et mon tuteur.                            
                         </p>
                         <h2 class="mb-3">Contexte</h2>
                         <p> 
-                        Effectué à : My Digital School </br>
+                        Effectué à : Néolithe </br>
                         Service : Informatique et Développement Applicatif </br>
-                        Date : Du 01/11/2023 au 01/03/2024
+                        Date : Du 01/11/2023 au 15/11/2023
                                                 
                         </p>
                         <h2 class="mb-3">Commentaires</h2>

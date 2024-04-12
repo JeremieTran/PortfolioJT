@@ -61,6 +61,23 @@
                         <!-- Fin Bloc Mission -->
                         <!-- Début Bloc Mission -->
                         <div class="d-flex mb-3">
+                            <a href="mission3.php">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-graduation-cap text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <h4>Mission 3 : Container Docker</h4>
+                                <p>
+                                    ▸ Recenser et identifier les ressources numériques  </br>
+                                    ▸ Mettre en place et vérifier les niveaux d’habilitation associés à un service </br>
+                                    ▸ Gérer des sauvegardes </br>
+                                </p>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Mission -->
+                        <!-- Début Bloc Mission -->
+                        <div class="d-flex mb-3">
                             <a href="mission5.php">
                             <div class="btn-icon bg-secondary mr-4">
                                 <i class="fa fa-2x fa-briefcase text-white"></i>
@@ -85,7 +102,7 @@
                             </div>
                             </a>
                             <div class="mt-n1">
-                                <h4>Mission 7 : Mise en place de GLPI sur un serveur Synologie / NAS</h4>
+                                <h4>Mission 7 : Mise en place de GLPI sur un serveur AWS</h4>
                                 <p>
                                     ▸ Recenser et identifier les ressources numériques  </br>
                                     ▸ Mettre en place et vérifier les niveaux d’habilitation associés à un service </br>

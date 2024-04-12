@@ -3,7 +3,7 @@
     <!-- Header Start -->
     <div class="jumbotron jumbotron-fluid page-header position-relative overlay-bottom" style="margin-bottom: 90px;">
         <div class="container text-center py-5">
-            <h1 class="text-white display-1">Création d'un Morpion et d'un Pendu Javascript</h1>
+            <h1 class="text-white display-1">Création d'un générateur de MDP Javascript</h1>
             <div class="d-inline-flex text-white mb-5">
                 <p class="m-0 text-uppercase"><a class="text-white" href="">Accueil</a></p>
                 <i class="fa fa-angle-double-right pt-1 px-3"></i>
@@ -39,13 +39,13 @@
                     <div class="mb-5">
                         <div class="section-title position-relative mb-5">
                             <h6 class="d-inline-block position-relative text-secondary text-uppercase pb-2">Mission 8</h6>
-                            <h1 class="display-4">Création d'un Morpion et d'un Pendu Javascript</h1>
+                            <h1 class="display-4">Création d'un générateur de MPD Javascript</h1>
                         </div>
                         <img class="img-fluid rounded w-100 mb-4" src="img/mission10.png" alt="Image">
                         <h2 class="mb-3">Description des tâches</h2>
                         <p>
                         - Suivi de tutoriels sur Javascript</br>
-                        - Définition des caractéristiques des jeux </br>
+                        - Définition des caractéristiques de l'application </br>
                         - Mise en place du HTML/CSS</br>
                         - Création des scripts rattachés</br>
                         - Test et déploiement  </br>
