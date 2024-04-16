@@ -63,6 +63,7 @@
         border-right: 1px solid #fff; /* Bordure droite */
         }
         .tableausynthese {
+        font-size: 30px;
         text-align: center;
         background-color: #228B22;
         border-radius: 10px;
