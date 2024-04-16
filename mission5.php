@@ -73,6 +73,34 @@
                         <p> 
                         Pas de commentaires.                            
                         </p>
+                        <h2 class="mb-3">Annexes</h2>
+                        <p>                            
+                        </p>
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://apps.powerapps.com/play/e/default-3c707018-8896-486f-8051-e205ce1399c9/a/525bba31-1032-4375-9781-a0bb1d4cb13c?tenantId=3c707018-8896-486f-8051-e205ce1399c9&hint=f65e630a-8107-4493-a3e1-22058eddcd66&sourcetime=1713262447690">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Lien vers l'application</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->  
+                        <div class="d-flex mb-3">
+                            <a href="img/Processcreation.pdf" target="_blank">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Création de l'application</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->  
                     </div>
 
                     

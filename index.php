@@ -110,7 +110,7 @@
                         </div>
                     </div>
                     <div class="d-flex">
-                    <a href="https://veillerss.jeremietran.fr/">
+                    <a href="veille.php">
                         <div class="btn-icon bg-warning mr-4">
                             <i class="fa fa-2x fa-book-reader text-white"></i>
                         </div>

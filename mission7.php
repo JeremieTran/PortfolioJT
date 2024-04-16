@@ -70,6 +70,35 @@
                         <p> 
                         Pas de commentaires.                            
                         </p>
+                        <h2 class="mb-3">Annexes</h2>
+                        <p>                            
+                        </p>
+                        <!-- Fin Bloc Annexe -->  
+                        <div class="d-flex mb-3">
+                            <a href="https://glpineo-neolithefr.msappproxy.net/glpineolithe/" target="_blank">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Lien vers GLPI</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->  
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="img/GLPI.pdf">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Process Installation GLPI</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->  
                     </div>
 
                     
