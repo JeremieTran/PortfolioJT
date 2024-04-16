@@ -62,11 +62,20 @@
         th:last-child, td:last-child {
         border-right: 1px solid #fff; /* Bordure droite */
         }
+        .tableausynthese {
+        text-align: center;
+        background-color: #228B22;
+        border-radius: 10px;
+        width:40%;
+        margin-right: 30%;
+        margin-left: 30%;
+        }
         </style>
     <!-- Header End -->
 
             <body>
-
+            <h1 class="tableausynthese"><a href="img/Tableaudesynthese.pdf" target="_blank"> > Annexe 6-1 Tableau de synthèse < </a></h1>
+            <h4 class="text-white display-4"> Blank </h4>
             <!-- Tableau avec deux colonnes -->
             <table>
             <thead>
