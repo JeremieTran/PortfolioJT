@@ -8,7 +8,7 @@ L'objectif est double :
 
 ## Mon Portfolio
 
-![alt text](https://github.com/JeremieTran/Netflix/blob/master/portfolio.png)
+![alt text](https://github.com/JeremieTran/Portfolio/img/blob/master/portfolio.png)
 
 ## Installation
 
