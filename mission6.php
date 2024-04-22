@@ -87,7 +87,20 @@
                                 <h4>Process installation GoPhish</h4>
                             </div>
                         </div>
-                        <!-- Fin Bloc Annexe -->  
+                        <!-- Fin Bloc Annexe --> 
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://www.it-connect.fr/comment-creer-une-campagne-de-phishing-avec-gophish/">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Tuto d'utilisation de Go Phish</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe --> 
                     </div>
 
                     
