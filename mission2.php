@@ -96,7 +96,7 @@
                             </a>
                             <div class="mt-n1">
                                 <br/>
-                                <h4>PhpMyAdmin </h4>
+                                <h4>Installation sur un VPS </h4>
                             </div>
                         </div>
                         <!-- Fin Bloc Annexe -->    
