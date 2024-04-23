@@ -132,7 +132,7 @@
                                     </div>
                                     <div class="article">
                                         <a class="d-block overflow-hidden mb-2" href="https://atlantico.fr/article/decryptage/intelligence-artificielle-tuteur-de-chatbot-la-profession-qui-va-recruter-a-tour-de-bras-laurent-alexandre">
-                                            <img class="imgveille" src="img/veille4.jpg" alt="">
+                                            <img class="imgveille" src="img/veille5.jpg" alt="">
                                             <div class="articlecontent">
                                                 <h4 class="text-center text-black px-3">Intelligence artificielle : tuteur de Chatbot</h4>
                                                 <h6 class="hveille"style="text-align: justify;">C'est LA profession qui va recruter. Les entreprises des nouvelles technologies dans le domaine de l’IA ont besoin 
@@ -147,33 +147,34 @@
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-lg-4 col-md-6 pb-4">
-                                        <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
-                                            <img class="img-fluid" src="img/courses-5.jpg" alt="">
-                                            <div class="courses-text">
-                                                <h4 class="text-center text-white px-3">Web design & development courses for
-                                                    beginners</h4>
+                                    <div class="article">
+                                        <a class="d-block overflow-hidden mb-2" href="https://www.yubigeek.com/openai-smartphone-ia">
+                                            <img class="imgveille" src="img/veille4.jpg" alt="">
+                                            <div class="articlecontent">
+                                                <h4 class="text-center text-black px-3">OpenAI dévoile son projet de smartphone de l’IA</h4>
+                                                <h6 class="hveille"style="text-align: justify;">Suite à une collaboration entre Open IA et Jony Ive, un ancien de chez apple, l'entreprise compte mettre sur le marché très prochainement 
+                                                un smartphone avec 4 fonctionnalités phares : Une interface utilisateur basée sur l’IA , une intéraction naturelle, Des applications intelligentes et une sécurité renforcée.
+                                                </h6>
                                                 <div class="border-top w-100 mt-3">
                                                     <div class="d-flex justify-content-between p-4">
-                                                        <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                                        <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                                            <small>(250)</small></span>
+                                                        <span class="dateveille">www.yubigeek.com</span>
+                                                        <span class="dateveille">29 septembre 2023</span>
                                                     </div>
                                                 </div>
                                             </div>
                                         </a>
                                     </div>
-                                    <div class="col-lg-4 col-md-6 pb-4">
-                                        <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
-                                            <img class="img-fluid" src="img/courses-6.jpg" alt="">
-                                            <div class="courses-text">
-                                                <h4 class="text-center text-white px-3">Web design & development courses for
-                                                    beginners</h4>
+                                    <div class="article">
+                                        <a class="d-block overflow-hidden mb-2" href="https://www.lesnumeriques.com/intelligence-artificielle/intelligence-artificielle-la-cnil-partage-ses-recommandations-pour-respecter-le-rgpd-n220597.html">
+                                            <img class="imgveille" src="img/veille6.jpg" alt="">
+                                            <div class="articlecontent">
+                                                <h4 class="text-center text-black px-3">L'intelligence artificielle et le RGPD</h4>
+                                                <h6 class="hveille"style="text-align: justify;">Confrontée à l'émergence des modèles d'IA, la Cnil a partagé ses recommandations pour le respect du RGPD et du futur Règlement européen sur l'intelligence artificielle. L'autorité administrative française demande notamment un bon usage des données privées et une sécurité renforcée.
+                                                </h6>
                                                 <div class="border-top w-100 mt-3">
                                                     <div class="d-flex justify-content-between p-4">
-                                                        <span class="text-white"><i class="fa fa-user mr-2"></i>Jhon Doe</span>
-                                                        <span class="text-white"><i class="fa fa-star mr-2"></i>4.5
-                                                            <small>(250)</small></span>
+                                                        <span class="dateveille">www.lesnumeriques.com</span>
+                                                        <span class="dateveille">10 avril 2024</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -182,9 +183,7 @@
                                 </div>
                             </div>
                          </div>
-                    <!-- Courses End -->
-
-                    
+                    <!-- Courses End -- >
                     <!-- <div class="owl-carousel related-carousel position-relative" style="padding: 0 30px;">
                         <a class="courses-list-item position-relative d-block overflow-hidden mb-2" href="detail.html">
                             <img class="img-fluid" src="img/courses-1.jpg" alt="">
