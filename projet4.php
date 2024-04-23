@@ -86,6 +86,19 @@
                             </div>
                         </div>
                         <!-- Fin Bloc Annexe -->
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://www.electronjs.org/fr/docs/latest/tutorial/tutorial-first-app">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Pas à pas détaillé pour l'utilisation d'Electron</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->
                     </div>
 
                     
