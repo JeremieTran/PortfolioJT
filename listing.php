@@ -90,7 +90,7 @@
             <tbody>
                 <!-- Début Mission 1 -->
                 <tr>
-                <th><a href="mission1.php">Mission 1</a></th>
+                <th><a href="mission1.php">Travail 1</a></th>
                 <th><a href="mission1.php">Maquette Html et CSS d'un site vitrine</a></th>
                 <th>
                     ▸ Développer la présence en ligne de l’organisation</br>
@@ -110,7 +110,7 @@
                 <!-- Fin Mission 1 -->
                 <!-- Début Mission 2 -->
                 <tr>
-                <th><a href="mission2.php">Mission 2</a></th>
+                <th><a href="mission2.php">Travail 2</a></th>
                 <th><a href="mission2.php">Création d'une base de donnée en MySql</a></th>
                 <th>
                     ▸ Gérer le patrimoine informatique</br>
@@ -135,7 +135,7 @@
                 <!-- Fin Mission 2 -->
                 <!-- Début Mission 3 -->
                 <tr>
-                <th><a href="mission3.php">Mission 3</a></th>
+                <th><a href="mission3.php">Travail 3</a></th>
                 <th><a href="mission3.php">Container Docker</a></th>
                 <th>
                     ▸ Gérer le patrimoine informatique</br>
@@ -155,7 +155,7 @@
                 <!-- Fin Mission 3 -->
                 <!-- Début Mission 4 -->
                 <tr>
-                <th><a href="mission4.php">Mission 4</a></th>
+                <th><a href="mission4.php">Travail 4</a></th>
                 <th><a href="mission4.php">Création d'un Portfolio</a></th>
                 <th>
                     ▸ Développer la présence en ligne de l’organisation</br>
@@ -175,7 +175,7 @@
                 <!-- Fin Mission 4 -->
                 <!-- Début Mission 5 -->
                 <tr>
-                <th><a href="mission5.php">Mission 5</a></th>
+                <th><a href="mission5.php">Travail 5</a></th>
                 <th><a href="mission5.php">Réalisation d'un outil de ticketing via les outils microsoft</a></th>
                 <th>
                     ▸ Gérer le patrimoine informatique</br>
@@ -202,7 +202,7 @@
                 <!-- Fin Mission 5 -->
                 <!-- Début Mission 6 -->
                 <tr>
-                <th><a href="mission6.php">Mission 6</a></th>
+                <th><a href="mission6.php">Travail 6</a></th>
                 <th><a href="mission6.php">Mise en place de GOPHISH</a></th>
                 <th>
                     ▸ Organiser son développement professionnel</br>
@@ -216,7 +216,7 @@
                 <!-- Fin Mission 6 -->
                 <!-- Début Mission 7 -->
                 <tr>
-                <th><a href="mission7.php">Mission 7</a></th>
+                <th><a href="mission7.php">Travail 7</a></th>
                 <th><a href="mission7.php">Mise en place de GLPI sur un serveur AWS</a></th>
                 <th>
                     ▸ Gérer le patrimoine informatique</br>
@@ -237,7 +237,7 @@
                 <!-- Fin Mission 7 -->
                 <!-- Début Mission 8 -->
                 <tr>
-                <th><a href="mission8.php">Mission 8</a></th>
+                <th><a href="mission8.php">Travail 8</a></th>
                 <th><a href="mission8.php">Création d'une application lourde Visual Studio</a></th>
                 <th>
                     ▸ Travailler en mode projet</br>
@@ -257,7 +257,7 @@
                 <!-- Fin Mission 8 -->
                 <!-- Début Mission 9 -->
                 <tr>
-                <th><a href="mission9.php">Mission 9</a></th>
+                <th><a href="mission9.php">Travail 9</a></th>
                 <th><a href="mission9.php">Installation d'un serveur d'administration</a></th>
                 <th>
                     ▸ Gérer le patrimoine informatique</br>
@@ -279,7 +279,7 @@
                 <!-- Fin Mission 9 -->
                 <!-- Début Mission 10 -->
                 <tr>
-                <th><a href="mission10.php">Mission 10</a></th>
+                <th><a href="mission10.php">Travail 10</a></th>
                 <th><a href="mission10.php">Création d'un générateur de MPD Javascript</a></th>
                 <th>
                     ▸ Mettre à disposition des utilisateurs un service informatique</br>
