@@ -130,6 +130,32 @@
                             </div>
                         </div>
                         <!-- Fin Bloc Annexe -->
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://github.com/JeremieTran/VeilleRSS/blob/main/documentation/VeilleRSS.pdf">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Guide Utilisateur</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://github.com/JeremieTran/VeilleRSS/blob/main/documentation/sequenceveille.png">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Diagramme séquenciel</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->
                     </div>
 
                     
