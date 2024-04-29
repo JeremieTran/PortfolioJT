@@ -135,6 +135,19 @@
                             </div>
                         </div>
                         <!-- Fin Bloc Annexe -->  
+                        <!-- Début Bloc Annexe -->
+                        <div class="d-flex mb-3">
+                            <a href="https://github.com/MathieuNico/CaninBTS/blob/main/documentation/Cahier_des_charges.pdf">
+                            <div class="btn-icon bg-primary mr-4">
+                                <i class="fa fa-2x fa-paperclip text-white"></i>
+                            </div>
+                            </a>
+                            <div class="mt-n1">
+                                <br/>
+                                <h4>Cahier des charges</h4>
+                            </div>
+                        </div>
+                        <!-- Fin Bloc Annexe -->  
                     </div>
 
                     
